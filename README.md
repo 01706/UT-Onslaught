@@ -1,2 +1,2 @@
 # UT-Onslaught
-Onslaught game mode for UT4 (mod)
+Place holder for Onslaught a game mode for Unreal Tournament 4
