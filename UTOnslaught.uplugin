@@ -1,0 +1,23 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "UTOnslaught GameMode",
+	"Version" : 1,
+	"VersionName" : "0.0.1",
+	"CreatedBy" : "",
+	"CreatedByURL" : "http://epicgames.com",
+	"EngineVersion" : "4.15.0",
+	"Description" : "Port of UT3 Onslaught GameMode",
+	"Category" : "UnrealTournament.GameMode",
+	"EnabledByDefault" : true,
+	"CanContainContent" : true,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "UTOnslaught",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win32", "Win64", "Linux" ]
+		}
+	]
+}
